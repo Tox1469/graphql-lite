@@ -1,0 +1,19 @@
+{
+  "name": "graphql-lite",
+  "version": "1.0.0",
+  "description": "Construtor minimo de queries GraphQL",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": ["graphql","query","builder"],
+  "author": "Tox",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0"
+  }
+}
