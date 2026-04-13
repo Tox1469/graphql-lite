@@ -1,3 +1,10 @@
+[![CI](https://img.shields.io/github/actions/workflow/status/Tox1469/graphql-lite/ci.yml?style=flat-square&label=ci)](https://github.com/Tox1469/graphql-lite/actions)
+[![License](https://img.shields.io/github/license/Tox1469/graphql-lite?style=flat-square)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/Tox1469/graphql-lite?style=flat-square)](https://github.com/Tox1469/graphql-lite/releases)
+[![Stars](https://img.shields.io/github/stars/Tox1469/graphql-lite?style=flat-square)](https://github.com/Tox1469/graphql-lite/stargazers)
+
+---
+
 # graphql-lite
 
 Construtor minimo de queries GraphQL
